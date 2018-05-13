@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A805-5C4A
+
+ Directory of C:\Users\Muhammad Abdullah\Desktop\abc
+
+05/13/2018  08:50 PM    <DIR>          .
+05/13/2018  08:50 PM    <DIR>          ..
+05/13/2018  08:50 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  81,550,397,440 bytes free
